@@ -1,6 +1,6 @@
-token=باث
-owner=326099411853901824
-prefix=1
-game=Type 1play
+token=NDk1NjI3OTI3MDQ4OTQ1Njg2.DpE1KA.OdRX7v63hlF2sqAWz21k5kGaK-I
+owner=460813839051784202
+prefix=2
+game=Type 2play
 stayinchannel=true
 songinstatus=true
